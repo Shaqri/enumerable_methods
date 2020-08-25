@@ -249,4 +249,22 @@ describe Enumerable do
       end
     end
   end
+
+  describe '#multiply_els' do
+    context 'When an argument is given' do
+      it 'Returns the product of the array items' do
+        expect(multiply_els(arr_num)).to eql(120)     
+      end
+
+      it 'Returns the product of a range' do
+        expect(multiply_els(ran)).to eql(120)     
+      end
+    end
+
+    context 'When the input is not an valid argument' do
+      it 'Wrong type error' do
+        expect { multiply_els(arr_string) }.to raise_error(TypeError)
+      end
+    end
+  end
 end
