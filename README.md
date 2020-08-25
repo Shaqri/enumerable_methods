@@ -1,6 +1,6 @@
 # Enumerable Methods
 
-> In this project we replicate the functionality of the following enumerable methods: 
+> In this project we replicate the functionality of the following enumerable methods, including a testing functionality for each with Rspec: 
 - #my_each
 - #my_each_with_index
 - #my_select
@@ -16,6 +16,12 @@
 
 - Ruby
 
+### In order to run the test cases for the methods, Please follow these steps
+
+- `gem install rspec`
+- Run `rspec` to see your testcases whether they are passed or failed
+
+
 ## Live Demo
 
 [Live Demo Link](https://repl.it/join/wtscdvoa-marcoshdezcam1)
@@ -23,13 +29,16 @@
 
 ## Authors
 
-👤 **Marcos Hernández Campos**
-- Github: [@marcoshdezcam](https://github.com/marcoshdezcam)
-- Twitter: [@MarcosHCampos](https://twitter.com/MarcosHCampos)
-- Linkedin: [Marcos Hernández](https://linkedin.com/marcos-hernández-56058119a/)
-
-👤 **Samuel Isaac Almao Herrera**
+ **Samuel Isaac Almao Herrera**
 - Github: [@SigmaSam](https://github.com/sigmasam)
+
+👤 **Victor Manuel Gonzalez Buitrago**
+- Github: [@Shaqri](https://github.com/Shaqri)
+- Twitter: [@Victorgonbu1](https://twitter.com/Victorgonbu1)
+- Linkedin: [Victor Manuel Gonzalez Buitrago](https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago-8704731a5/)
+
+👤
+  
 
 ## 🤝 Contributing
 
