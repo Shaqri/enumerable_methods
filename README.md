@@ -23,10 +23,10 @@
 
 ## Authors
 
-👤 **Marcos Hernández Campos**
-- Github: [@marcoshdezcam](https://github.com/marcoshdezcam)
-- Twitter: [@MarcosHCampos](https://twitter.com/MarcosHCampos)
-- Linkedin: [Marcos Hernández](https://linkedin.com/marcos-hernández-56058119a/)
+👤 **Victor Manuel Gonzalez Buitrago**
+- Github: [@Shaqri](https://github.com/Shaqri)
+- Twitter: [@victorgonbu](https://twitter.com/victorgonbu)
+- Linkedin: [linkedin](https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago-8704731a5/)
 
 👤 **Samuel Isaac Almao Herrera**
 - Github: [@SigmaSam](https://github.com/sigmasam)
